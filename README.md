@@ -1,4 +1,22 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Sarkar(Poizn)</h1>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/SarkarPriyanshu">Priyanshu Sarkar</a></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-sarkar-5056941ab/">LinkedIN</a> •
+  <a href="https://www.instagram.com/prasanya07/">Instagram</a> •
+  <a href="https://twitter.com/priyans80408280?s=09">Twitter</a>
+</p>
+
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻  I’m currently working on something cool :wink:.
+- 🌱  I’m currently React,Redux,React-Native. 
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: provashpriyanshu@gmail.com.
+
+***
+
+<br>
 <h3 align="center">Imaginative</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarpriyanshu&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarpriyanshu" /> </p>
@@ -26,25 +44,6 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
-  <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
-  <a href="https://twitter.com/Shwetang550">Twitter</a>
-</p>
-
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Python. 
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
-
-***
-
- <br>
 
 📈 My Github stats <br />
 <p align="center">
