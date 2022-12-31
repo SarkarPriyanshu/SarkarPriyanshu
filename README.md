@@ -14,7 +14,7 @@
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently React,Redux,React-Native. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: provashpriyanshu@gmail.com.
+- 📫  How to reach me: priyanhusarkar0708@gmail.com.
 
 ***
 
