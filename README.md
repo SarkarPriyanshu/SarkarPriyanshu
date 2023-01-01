@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently React,Redux,React-Native. 
+- 🌱  I’m currently React,Redux,React-Native,Machine Learning, Natural Language Processing Projects. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: priyanhusarkar0708@gmail.com.
 
