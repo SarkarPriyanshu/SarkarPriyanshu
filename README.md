@@ -15,8 +15,8 @@
 - 🌱  I’m currently React, Redux, React-Native, Machine Learning, 
 - 😃 Natural Language Processing Projects and many more. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: priyanhusarkar0708@gmail.com.
-- 🔍  Portfolio :[ priyanhusarkar ](https://priyanshusarkar.my.canva.site/).
+- 📫  How to reach me: priyanshusarkar0708@gmail.com.
+- 🔍  Portfolio :[ priyanshusarkar ](https://priyanshusarkar.my.canva.site/).
 
 ***
 
