@@ -16,7 +16,7 @@
 - 😃 Natural Language Processing Projects and many more. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: priyanshusarkar7895@gmail.com.
-- 🔍  Portfolio :[ priyanshusarkar ](https://priyanshusarkar.my.canva.site/).
+- 🔍  Portfolio :[ priyanshusarkar ](https://priyanshusarkar.my.canva.site/let-s-bring-your-vision-to-life)).
 
 ***
 
