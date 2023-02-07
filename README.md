@@ -36,8 +36,7 @@
 
 
 <br />
-
-
+  
 📈 My Github stats <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=braydonwang.braydonwang)
@@ -52,9 +51,31 @@
 <a href="https://github.com/sarkarpriyanshu/README.md">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkarpriyanshu&theme=gotham&show_icons=true)" alt="sarkarpriyanshu's GitHub Stats" />
 </a>
-
-
+  
 <br>
+  
+## Machine Learning
+
+<details open>
+  <summary> I am a ML Engineer, I exercised a calculated and methodical approach for problem solving. I am independently motivated, yet I appreciate team efforts and collaborate productively within groups. </summary>
+  
+  <br />
+  <p>
+    <a href="https://github.com/SarkarPriyanshu/CreditScore">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=CreditScore&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/SarkarPriyanshu/Sentiment_Predict">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Sentiment_Predict&theme=gotham&show_owner=true"/>
+    </a>
+    <a href="https://github.com/SarkarPriyanshu/TopicModeling_Reviews">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=TopicModeling_Reviews&theme=gotham"/>
+    </a>
+    <a href="https://github.com/SarkarPriyanshu/Machine-Learning-Models">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Machine-Learning-Models&theme=gotham"/>
+    </a>
+  </p>
+</details>
+  
 
 <p align="center"> 
   Visitor count<br>
