@@ -39,7 +39,7 @@
   
 📈 My Github stats <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=braydonwang.braydonwang)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sarkarpriyanshu.sarkarpriyanshu)
 ![](https://img.shields.io/github/followers/sarkarpriyanshu?style=social)
 ![](https://img.shields.io/github/forks/sarkarpriyanshu/sarkarpriyanshu.github.io?style=social)
 ![](https://img.shields.io/github/stars/sarkarpriyanshu?style=social)
