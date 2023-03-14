@@ -70,6 +70,9 @@
     <a href="https://github.com/SarkarPriyanshu/TopicModeling_Reviews">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=TopicModeling_Reviews&theme=gotham"/>
     </a>
+    <a href="https://github.com/SarkarPriyanshu/Bank_Marketing">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Bank_Marketing&theme=gotham"/>
+    </a>
     <a href="https://github.com/SarkarPriyanshu/Machine-Learning-Models">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Machine-Learning-Models&theme=gotham"/>
     </a>
