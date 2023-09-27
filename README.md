@@ -64,10 +64,10 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=CreditScore&theme=gotham&show_owner=true"/>
     </a>
     <a href="https://github.com/SarkarPriyanshu/WebScrapingDataStorageApplication">
-      <img align="left" src="https://github.com/SarkarPriyanshu/WebScrapingDataStorageApplication"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=WebScrapingDataStorageApplication&theme=gotham"/>
     </a>
     <a href="https://github.com/SarkarPriyanshu/LibraryManagementSystem">
-      <img align="center" src="https://github.com/SarkarPriyanshu/LibraryManagementSystem"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=LibraryManagementSystem&theme=gotham"/>
     </a>
     <a href="https://github.com/SarkarPriyanshu/Bank_Marketing">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Bank_Marketing&theme=gotham"/>
