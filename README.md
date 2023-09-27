@@ -1,9 +1,9 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/SarkarPriyanshu">Priyanshu Sarkar</a></h2>
 <h3 align="center">Imaginative</h3>
-<--197c1e2a71b601e60f8ba3b69aa357da-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-sarkar-5056941ab/">LinkedIN</a> •
-  <a href="https://www.linkedin.com/in/priyanshu-sarkar-5056941ab/">blogspot</a> •
+  <a href="https://www.linkedin.com/in/priyanshu-sarkar-97629a263/">LinkedIN</a> •
+  <a href="https://datasciencefor5yearolds.blogspot.com/">blogspot</a> •
+  <a href="https://puddle-seer-fcd.notion.site/MySQL-ac550b91409944729a43faa7bfbd5a00?pvs=4">Notion</a> •
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
@@ -63,11 +63,11 @@
     <a href="https://github.com/SarkarPriyanshu/CreditScore">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=CreditScore&theme=gotham&show_owner=true"/>
     </a>
-    <a href="https://github.com/SarkarPriyanshu/Sentiment_Predict">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Sentiment_Predict&theme=gotham&show_owner=true"/>
+    <a href="https://github.com/SarkarPriyanshu/WebScrapingDataStorageApplication">
+      <img align="left" src="https://github.com/SarkarPriyanshu/WebScrapingDataStorageApplication"/>
     </a>
-    <a href="https://github.com/SarkarPriyanshu/TopicModeling_Reviews">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=TopicModeling_Reviews&theme=gotham"/>
+    <a href="https://github.com/SarkarPriyanshu/LibraryManagementSystem">
+      <img align="center" src="https://github.com/SarkarPriyanshu/LibraryManagementSystem"/>
     </a>
     <a href="https://github.com/SarkarPriyanshu/Bank_Marketing">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=Bank_Marketing&theme=gotham"/>
