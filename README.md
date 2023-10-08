@@ -35,6 +35,16 @@
 
 
 <br />
+
+## Embedding a Credly Badge
+
+To embed a Credly badge in your website or documentation, you can use the following HTML and JavaScript code:
+
+```html
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d98a5bbc-c7bb-468e-b435-30121f7b0f3c" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<br />
   
 📈 My Github stats <br />
 
