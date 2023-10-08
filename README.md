@@ -19,10 +19,6 @@
 
 ***
 
-**Talking about Personal Stuffs:**
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d98a5bbc-c7bb-468e-b435-30121f7b0f3c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <br>
 
 **Languages and Tools**
