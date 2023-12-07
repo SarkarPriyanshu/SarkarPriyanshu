@@ -56,6 +56,9 @@
   
   <br />
   <p>
+    <a href="https://github.com/SarkarPriyanshu/USHousingMarketAnalysis">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=USHousingMarketAnalysis&theme=gotham"/>
+    </a>
     <a href="https://github.com/SarkarPriyanshu/CreditScore">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SarkarPriyanshu&repo=CreditScore&theme=gotham&show_owner=true"/>
     </a>
