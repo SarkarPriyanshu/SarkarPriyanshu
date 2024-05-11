@@ -1,7 +1,7 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/SarkarPriyanshu">Priyanshu Sarkar</a></h2>
 <h3 align="center">Imaginative</h3>
 <p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="priyanshu-sarkars-a07m08y1995" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/priyanshu-sarkars-a07m08y1995?trk=profile-badge">My Linkedin</a></div>
+  <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/priyanshu-sarkars-a07m08y1995?trk=profile-badge">My Linkedin</a>
   <a href="https://datasciencefor5yearolds.blogspot.com/">blogspot</a> •
   <a href="https://puddle-seer-fcd.notion.site/MySQL-ac550b91409944729a43faa7bfbd5a00?pvs=4">Notion</a> •
 </p>
